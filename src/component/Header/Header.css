@@ -1,0 +1,17 @@
+.dropdown-menu{
+    transform: translate(-255px, 60px) !important;
+    border: none !important;
+    width: 300px;
+    margin: 0;
+    transition: all .5s ease-in-out;
+}
+
+.dropdown-menu li{
+    font-size: 14px;
+    background-color: #fbfbfb;
+}
+
+.show{
+    height: auto;
+}
+
